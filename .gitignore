@@ -1,0 +1,4 @@
+.env
+/env
+alpaca-AAPL.py
+backtest.py
